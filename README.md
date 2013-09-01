@@ -2,4 +2,4 @@ Sinatra MVC Template
 =========
  -
  
-To run use ```rackup```
+Running version at: //sinatramvc.heroku.com
